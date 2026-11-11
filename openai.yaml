@@ -1,4 +1,0 @@
-interface:
-  display_name: "文献精读与证据链审查"
-  short_description: "拆解研究背景、数据和方法，逐图核查证据链，提出可证伪的后续研究设计"
-  default_prompt: "请使用 $paper-deep-reading 精读这篇论文，逐图逐表核查证据链，并提出可证伪的后续研究设计。"
